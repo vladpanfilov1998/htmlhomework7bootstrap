@@ -42,9 +42,9 @@
     .head {
         display: flex;
         justify-content: space-between;
-        margin: 380px 15px 15px 15px;
+        margin: 380px 15px 15px 55px;
         width: 1138px;
-        height: 900px;
+        height: 950px;
         flex-direction: column;
     }
 
